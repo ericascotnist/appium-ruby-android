@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'appium_console'
+gem 'appium_lib'
+gem 'cucumber'
+gem 'rspec'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'pry'
+gem 'humanize'

@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "qazando"
+app = "./android/Calculator.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
