@@ -1,6 +1,6 @@
 [caps]
 platformName = "Android"
-deviceName = "qazando"
+deviceName = "nome_dispositivo"
 app = "./android/Calculator.apk"
 autoGrantPermissions = true
 newCommandTimeout = 3600
